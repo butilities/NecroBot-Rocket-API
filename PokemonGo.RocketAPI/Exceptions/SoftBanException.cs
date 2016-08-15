@@ -2,7 +2,7 @@
 
 namespace PokemonGo.RocketAPI.Exceptions
 {
-    public class SoftBandException : Exception
+    public class SoftBanException : Exception
     {
     }
 }
